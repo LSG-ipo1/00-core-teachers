@@ -230,7 +230,7 @@ Tanca amb un comiat formal:
 
 ---
 
-## 🏁 RESUM FINAL SUPER VISUAL
+## 🏁 RESUM FINAL
 
 | Document  | Ha de ser…                     | Personalitzat per cada empresa? |
 | --------- | ------------------------------ | ------------------------------- |
