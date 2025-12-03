@@ -7,6 +7,7 @@ Aquesta guia està dissenyada perquè **no et perdis**, puguis seguir-la ràpid 
 ## 💼 1) EL TEU CV (Currículum Vitae)
 
 > 🟢 **El CV pot ser el mateix per totes les candidatures de pràctiques.**
+>
 > 🔜 Més endavant, quan busquis feina real, sí que l'hauràs d’adaptar per cada oferta.
 
 ---
