@@ -20,3 +20,4 @@
 ### 2n Trimestre
 
 - [Session 01](./block02/session01)
+- [Session 02](./block02/session02)

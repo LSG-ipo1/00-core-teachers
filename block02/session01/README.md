@@ -1,5 +1,7 @@
 # Carta de presentació genèrica
 
+Hem estat 2 dies amb una classe per compensar.
+
 ## 🎯 Objectius d’aprenentatge
 
 - Entendre la funció real d’una carta de presentació genèrica per a pràctiques.
@@ -11,7 +13,7 @@
 
 ## 💡 Resultats d’aprenentatge
 
-📌 **RA1.** _Selecciona les arquitectures i tecnologies de programació web en entorn servidor, analitzant les capacitats i característiques pròpies._
+📌 **RA1.** _Distingeix les característiques del sector productiu i defineix els llocs de treball, relacionant-los amb les competències professionals expressades en el títol._
 
 > 🧭 Es treballa quan l’alumnat identifica i descriu, a la carta, les tecnologies i competències reals que coneix i pot aplicar com a estudiant en pràctiques.
 
@@ -47,7 +49,7 @@
   - inflar coneixements,
   - to massa formal o massa col·lega.
 
-- **10–60’ | Feina autònoma + feedback individual**
+- **10–45’ | Feina autònoma + feedback individual**
   L’alumnat redacta la **carta v1 completa**.
 
   Condicions:
@@ -59,6 +61,8 @@
   El docent:
 
   - segueix donant feedback del CV anterior un per un.
+
+- **45–60’ | Role play final (grups de 3)**
 
 ---
 
