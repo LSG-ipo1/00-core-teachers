@@ -1,6 +1,4 @@
-# LinkedIn — Sessió 3
-
-**Validació de skills entre iguals**
+# LinkedIn — Validació de skills entre iguals
 
 ## 🎯 Objectius d’aprenentatge
 
@@ -29,15 +27,16 @@
 
 ## ⏱️ Minut a minut (45’)
 
-- **0–5’ | Obertura**  
+- **0–5’ | Obertura**
   Context de la sessió.
 
   > “Validar una skill és afirmar públicament que l’has vist aplicar.”
 
 ---
 
-- **5–10’ | Explicació molt breu**  
+- **5–10’ | Explicació molt breu**
   Normes de la validació:
+
   - només validar el que s’ha vist realment,
   - no validar per amistat,
   - prioritzar skills tècniques.
@@ -51,11 +50,13 @@
 - **10–30’ | Validació creuada (parelles o trios)**
 
   Cada alumne:
+
   - revisa el perfil del company,
   - valida **2–4 skills màxim**,
   - justifica oralment cada validació.
 
   El company pot:
+
   - acceptar mantenir la skill,
   - eliminar-la si no la pot defensar.
 
@@ -64,6 +65,7 @@
 - **30–40’ | Coherència final del perfil**
 
   Revisió individual:
+
   - Les skills validades coincideixen amb els projectes?
   - Coincideixen amb el titular?
   - Hi ha skills que sobren?
@@ -76,7 +78,7 @@
 
   Missatge final del docent:
 
-  > “Una validació falsa resta credibilitat.  
+  > “Una validació falsa resta credibilitat.
   > Una validació justa construeix reputació.”
 
 ---

@@ -1,4 +1,4 @@
-# Carta de presentació genèrica — Sessió 3 (validació amb IA i versió final)
+# Carta de presentació genèrica — validació amb IA i versió final
 
 ## 🎯 Objectius d’aprenentatge
 

@@ -1,6 +1,4 @@
-# LinkedIn — Sessió 2
-
-**Skills, keywords i validació entre iguals**
+# LinkedIn — Skills, keywords i validació entre iguals
 
 ## 🎯 Objectius d’aprenentatge
 

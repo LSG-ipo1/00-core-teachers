@@ -1,4 +1,4 @@
-# LinkedIn — Sessió 3 Perfil, objectiu professional i titular
+# LinkedIn — Perfil, objectiu professional i titular
 
 ## 🎯 Objectius d’aprenentatge
 
